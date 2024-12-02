@@ -6,7 +6,7 @@ This guide will help you set up the backend project locally on your machine.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/backend-project.git
+    git clone [https://github.com/your-repo/backend-project.git](https://github.com/prajesh9921/growthpartners_backend.git)
     cd backend-project
     ```
 
